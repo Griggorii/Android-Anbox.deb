@@ -9,6 +9,8 @@ sudo apt install build-essential cmake cmake-data debhelper dbus google-mock \
     libgles2-mesa-dev libglm-dev libgtest-dev liblxc1 \
     libproperties-cpp-dev libprotobuf-dev libsdl2-dev libsdl2-image-dev lxc-dev \
     pkg-config protobuf-compiler 
+    
+Aptik.zip дополнит все зависимости что бы начать компиляцию достаточно распаковать и от (важно супер пользователя) выполнить restore-all.sh 
 
 cmake . && make 
 
