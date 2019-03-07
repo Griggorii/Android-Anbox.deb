@@ -12,6 +12,8 @@ sudo apt install build-essential cmake cmake-data debhelper dbus google-mock \
 
 cmake . && make 
 
+sudo make install
+
 Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 
 Данная ОС отдаётся в фонд мозилы потому что нынче гугл прибит гвоздями , а то системд системд все говорят , а не видят суслика.
