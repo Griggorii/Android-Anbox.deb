@@ -1,5 +1,7 @@
 https://github.com/Griggorii/Android-Anbox.deb/tree/master/data/desktop my idea copy paste /usr/share/xsessions
 
+Что бы скомпилировать оригинал gmock.zip  https://github.com/Griggorii/Android-Anbox.deb/blob/master/gmock.zip кладётся прямо в папку без него ни как (это я додумал и это получается додумать следовательно это мой патент)
+
 Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 
 Данная ОС отдаётся в фонд мозилы потому что нынче гугл прибит гвоздями , а то системд системд все говорят , а не видят суслика.
