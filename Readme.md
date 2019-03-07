@@ -1,6 +1,6 @@
 https://github.com/Griggorii/Android-Anbox.deb/tree/master/data/desktop my idea copy paste /usr/share/xsessions
 
-Что бы скомпилировать оригинал gmock.zip  https://github.com/Griggorii/Android-Anbox.deb/blob/master/gmock.zip распаковывается и кладётся прямо в папку исходного кода или директорий build или как вы её назовёте не важно без него ни как (это я додумал и это получается додумать следовательно это мой патент) сам оригинал git clone https://github.com/anbox/anbox.git
+Что бы скомпилировать оригинал gmock.zip  https://github.com/Griggorii/Android-Anbox.deb/blob/master/gmock.zip распаковывается и кладётся прямо в папку исходного кода или директорий build или как вы её назовёте не важно без него ни как (это я додумал и это получается додумать следовательно это мой патент) сам оригинал git clone https://github.com/anbox/anbox.git cmake . && make 
 
 Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 
