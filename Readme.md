@@ -10,4 +10,6 @@ Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 
 Android это не гугл android это OS и не разу не Chrome OS
 
-Я два года работал над OS что бы она выглядела , а не существовала
+Я два года работал над OS https://github.com/Griggorii/Cinnamon-Budgie-OS-4.0-beta-based-18.04 что бы она выглядела , а не существовала.
+
+
