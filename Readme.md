@@ -7,3 +7,7 @@ Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 Гугл гигант итак гребёт с поисковика и маркета , а нового нету ничего только тащат в свою нору наработки.
 
 Вот конфиг firefox https://github.com/Griggorii/linux-firefox-config
+
+Android это не гугл android это OS и не разу не Chrome OS
+
+Я два года работал над OS что бы она выглядела , а не существовала
