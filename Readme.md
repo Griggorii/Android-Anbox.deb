@@ -1,6 +1,16 @@
 https://github.com/Griggorii/Android-Anbox.deb/tree/master/data/desktop my idea copy paste /usr/share/xsessions
 
-Что бы скомпилировать оригинал gmock.zip  https://github.com/Griggorii/Android-Anbox.deb/blob/master/gmock.zip распаковывается и кладётся прямо в папку исходного кода или директорий build или как вы её назовёте не важно без него ни как (это я додумал и это получается додумать следовательно это мой патент) сам оригинал git clone https://github.com/anbox/anbox.git cmake . && make 
+Что бы скомпилировать оригинал gmock.zip  https://github.com/Griggorii/Android-Anbox.deb/blob/master/gmock.zip распаковывается и кладётся прямо в папку исходного кода или директорий build или как вы её назовёте не важно без него ни как (это я додумал и это получается додумать следовательно это мой патент) сам оригинал git clone https://github.com/anbox/anbox.git 
+
+sudo apt install build-essential cmake cmake-data debhelper dbus google-mock \
+    libboost-dev libboost-filesystem-dev libboost-log-dev libboost-iostreams-dev \
+    libboost-program-options-dev libboost-system-dev libboost-test-dev \
+    libboost-thread-dev libcap-dev libsystemd-dev libegl1-mesa-dev \
+    libgles2-mesa-dev libglm-dev libgtest-dev liblxc1 \
+    libproperties-cpp-dev libprotobuf-dev libsdl2-dev libsdl2-image-dev lxc-dev \
+    pkg-config protobuf-compiler 
+
+cmake . && make 
 
 Deb package https://www19.zippyshare.com/v/6e40P9fo/file.html
 
